@@ -1,0 +1,27 @@
+body{
+    background-color:antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+    }
+.services{
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    padding: 4px;
+    margin:4px ;
+
+}
+img{
+    height: 200px;
+    width: auto;
+}
+nav{
+     display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    padding: 4px;
+    margin:4px ;
+
+
+}
